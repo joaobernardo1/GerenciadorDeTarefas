@@ -2,11 +2,11 @@
    <p>Esta API permite gerenciar Tasks. Ela foi desenvolvida aplicadando conceitos aprendidos em aula:</p>
     <p>As operações principais serão:</p>
     <ul>
-        <li><strong>Cadastrar uma task:</strong></li>
-        <li><strong>Listar todas as task:</strong></li>
-        <li><strong>Listar task pelo ID:</strong></li>
-        <li><strong>Atualizar task:</strong></li>
-        <li><strong>Excluir task:</strong></li>
+        <li><strong>Cadastrar uma task</strong></li>
+        <li><strong>Listar todas as task</strong></li>
+        <li><strong>Listar task pelo ID</strong></li>
+        <li><strong>Atualizar task</strong></li>
+        <li><strong>Excluir task</strong></li>
     </ul>
     <h2>Requisitos</h2>
     <ul>
