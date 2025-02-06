@@ -1,0 +1,11 @@
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.deps.json
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfoInputs.cache
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfo.cs
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.csproj.CoreCompileInputs.cache
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\refint\GerenciadorDeTarefas.Communication.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\ref\GerenciadorDeTarefas.Communication.dll

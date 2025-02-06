@@ -1,0 +1,15 @@
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.deps.json
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Application.pdb
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.AssemblyInfoInputs.cache
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.AssemblyInfo.cs
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\refint\GerenciadorDeTarefas.Application.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.pdb
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\ref\GerenciadorDeTarefas.Application.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\GerenciadorDeTarefas.Application.csproj.AssemblyReference.cache
+D:\Workspace\Gerenciador de Tarefas\Gerenciador de Tarefas\GerenciadorDeTarefas.Application\obj\Debug\net8.0\Gerencia.C152AD93.Up2Date
